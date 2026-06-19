@@ -34,8 +34,8 @@ Follow these steps to deploy the AI engine on your local machine:
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/Muhammad1656/Movie_Recommendation_System](https://github.com/Muhammad1656/Movie_Recommendation_System.git)
+cd Movie_Recommendation_System
 
 2. Install Dependencies
 Ensure you have Python installed, then run:
